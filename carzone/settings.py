@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'a@fx4$1l_znpw7o#(!$a8bl5@!&4gi)ak_3xv7%cwy*@gz$j3u'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['safe-fortress-92725.herokuapp.com','carzoneapp.co','www.carzoneapp.co']
 
