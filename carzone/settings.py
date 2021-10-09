@@ -26,7 +26,7 @@ SECRET_KEY = 'a@fx4$1l_znpw7o#(!$a8bl5@!&4gi)ak_3xv7%cwy*@gz$j3u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['safe-fortress-92725.herokuapp.com','carzoneapp.co','www.carzoneapp.co']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 # Application definition
