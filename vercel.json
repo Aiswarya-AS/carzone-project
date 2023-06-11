@@ -1,12 +1,12 @@
 {
   "builds": [
     {
-      "src": "carzone/manage.py",
+      "src": "manage.py",
       "use": "@vercel/python",
       "outputDirectory": "carzone/static"
     }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "carzone/manage.py" }
+    { "src": "/(.*)", "dest": "manage.py" }
   ]
 }
