@@ -3,7 +3,7 @@
     {
       "src": "manage.py",
       "use": "@vercel/python",
-      "outputDirectory": "carzone/static"
+     
     }
   ],
   "routes": [
